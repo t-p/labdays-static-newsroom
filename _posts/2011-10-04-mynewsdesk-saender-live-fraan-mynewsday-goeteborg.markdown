@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Mynewsdesk sänder live från Mynewsday Göteborg"
+date: 2011-10-04 17:05:00 +0200
+categories: Mynewsdesk
+---
+ <div class='clearfix'><p><strong><a href="/se/pressroom/mynewsday">Mynewsdesks pr-event Mynewsday</a> blev snabbt fullbokat. Även om du inte fick plats kan du följa med i vad som händer - <a href="/se/pressroom/mynewsday/blog_post/view/vi-saender-live-fraan-mynewsday-8763">vi sänder Mynewsday live den 14 oktober</a>.<br></strong></p><p>Mynewsday är en hel dag med inspirerande föreläsningar, presentation av produktnyheter och mingel på temat digitalt engagemang, sociala relationer.</p><p><a href="http://se.blog.mynewsdesk.com/2011/10/04/vi-sander-live-fran-mynewsday/">Läs mer om eventet och livestreamingen i vår blogg. Välkommen att delta på Mynewsday även om du inte kan vara på plats!</a><strong><br></strong></p>
+</div>
+<div class='boilerplate'><p><strong>För mer information om Mynewsdesk, följ oss på:</strong></p><p><a href="http://twitter.com/#!/mynewsdesk_se">Twitter</a><br /><a href="http://www.linkedin.com/company/mynewsdesk">Linkedin</a><br /><a href="http://www.facebook.com/MyNewsdesk">Facebook</a><br /><a href="http://www.youtube.com/user/mynewsdesk">YouTube</a><br /><a href="http://www.flickr.com/photos/mynewsdesk">Flickr</a><br /><a href="http://www.slideshare.net/MyNewsdesk">Slideshare</a><br /><a href="/se/pressroom/newsdesk">Newsroom</a></p><p><strong>Mynewsdesk – The News Exchange Site</strong></p><p>Mynewsdesk matchar intresserade användare med relevant information- som pressmeddelanden, dokument, videor och bilder - helt på användarnas villkor. Allt material sökmotoroptimeras omedelbart och publiceras automatiskt i sociala medier som Facebook, Twitter, Flickr, WordPress och Slideshare. Mynewsdesk har idag 97 % nöjda kunder, hostar 3 600 social media newsrooms och publicerar innehåll från över 23 000 företag.</p></div>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Ikväll avgörs 100-wattaren 2010"
+date: 2010-12-09 16:05:00 +0100
+categories: Mynewsdesk
+---
+ <div class='clearfix'><p><strong>Om några timmar är det dags för den 20:onde upplagan av 100-wattaren. Tävlingen premierar kampanjer som fungerar och arrangeras årligen av Sveriges Annonsörer och Sveriges Kommunikationsbyråer. MyNewsdesk är mediepartner och stödjer arrangören</strong><strong> </strong><strong>med PR-service kring eventet. </strong></p>
+<p>Biljetterna är slutsålda inför kvällens prisutdelning i 100-wattaren på Münchenbryggeriet i Stockholm. Det är 20:årsjubileum av tävlingen och extra spännande vem som tar hem 100-, 75-, och 50-wattarna i de 6 olika kategorierna. Här är en <a href="/se/pressroom/100wattaren/pressrelease/view/100-wattaren-20-aar-topplista-oever-vinnarna-540640">topplista över vinnarna genom tiderna</a>. Kvällen till ära dukar den nya partnern <a href="/se/pressroom/100wattaren/pressrelease/view/stjaernkockarna-spisar-upp-100-wattaren-475247">F12 upp festmenyn</a>. Det bjuds även på underhållning och fest fram till gryningen, bl a med en DJ battle mellan Storåkers McCann, DDB Stockholm och Saatchi &amp; Saatchi. <a href="/se/pressroom/100wattaren/news/view/dj-line-up-100-wattaren-2010-14091">Lyssna på smakprov här.</a></p>
+<p>I samarbetet med MyNewsdesk har Sveriges Annonsörer fått ett <a href="/se/pressroom/100wattaren">social media newsroom för 100-wattaren</a>, med automatisk synkronisering till <a href="http://www.100wattaren.com/press/pressmeddelande">100-wattarens hemsida</a>. Här publiceras vinnarna under kvällen allteftersom de mottar sina priser. MyNewsdesk stödjer även med publiceringsservice inför och under prisutdelningen för att få ökad publicietet och spridning på nyheter och informationsmaterial kring eventet.</p>
+<p>100-wattaren riktar in sig på att värdera och belöna avgränsade kampanjer. Resultatet av kampanjen är det som avgör framför kreativitet, kanal eller kommunikatinsdisciplin. I juryn representeras mätföretag tillsammans med personer från köpar- och byråsidan. Många av de nominerade företagen har marknadsbudgetar med utrymme för kampanjer för miljonbelopp. Men det finns även ett flertal mindre företag och organisationer representerade. Många av de tävlande, stora som små, använder MyNewsdesk för sitt kontinuerliga och integrerade kommunikationsarbete. Vi är glada att branschen och kommunikatörerna ute på dessa företag får exponering och cred för sitt hårda arbete.</p>
+<p>___<br>Pernilla Åström<br>Community Manager, Mynewsdesk</p>
+</div>
+<div class='boilerplate'><p><strong>MyNewsdesk – The News Exchange Site</strong></p>
+<p>MyNewsdesk makes it faster and easier for companies, journalists, bloggers and opinion leaders to gain relevant exposure – on their own terms. It matches interested users with press releases, videos, images and other content, all instantly searchengine optimized and automatically published on social media platforms.</p>
+<p>The site serves more than 10,000 companies and has a 97% customer satisfaction rate.</p></div>

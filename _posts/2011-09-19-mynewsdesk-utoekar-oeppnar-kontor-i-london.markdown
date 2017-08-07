@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Mynewsdesk utökar - öppnar kontor i London"
+date: 2011-09-19 09:15:00 +0200
+categories: Mynewsdesk
+---
+ <div class='clearfix'><p><strong>Mynewsdesk tar ytterligare ett steg i sin globala satsning genom att öppna kontor i London. </strong></p>
+<p>Mynewsdesk fortsätter sin expansion, och inleder hösten med att öppna kontor i London. Med ett motiverat och kunnigt team tar Country Manager Heidi Nömm sig an att presentera Mynewsdesk för den engelska marknaden.</p>
+<p>– Vi är glada över att öppna kontor i London. Vårt Londonteam ligger i startgroparna för att starta upp verksamheten i full skala. Vi ser fram emot att bygga en lika stark och nöjd kundbas här som hos Mynewsdesk i Skandinavien, säger Heidi Nömm, Country Manager för Mynewsdesk UK.</p>
+<p><object width="454" height="276" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent"><param name="allowscriptaccess" value="always"><param name="allowfullscreen" value="true"><param name="src" value="http://csp.picsearch.com/players/rutile.swf?config=http%3A//csp.picsearch.com/playlist%3Fauth%3D0c9w57VdFRE-6ABX1gqLpS86s_im6amiVtG2e-l1RzWa4lkbZGGXcrhA8v_vX9HlmBWQ3dJ3-SIP6_Sj50QLdCDyzdETM4Bs"><param name="quality" value="high"><embed width="454" height="276" type="application/x-shockwave-flash" src="http://csp.picsearch.com/players/rutile.swf?config=http%3A//csp.picsearch.com/playlist%3Fauth%3D0c9w57VdFRE-6ABX1gqLpS86s_im6amiVtG2e-l1RzWa4lkbZGGXcrhA8v_vX9HlmBWQ3dJ3-SIP6_Sj50QLdCDyzdETM4Bs" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" quality="high"></object></p>
+<p>Mynewsdesk tog några första prövande steg i London på Social Media World Forum i mars i år, och marknadens respons på produkten har varit positiv. Mynewsdesk uppfattas som en innovativ pr-tjänst som underlättar för kommunikatörer att hålla full kontroll över sitt PR-arbete. En tjänst som dessutom gör det möjligt att nå ut till och skapa engagemang med viktiga påverkare.</p>
+<p>– Mynewsdesk har länge velat ge sig in på en av pr-världens mest konkurrensutsatta marknader. Nu har vi fått grönt ljus för satsningen. Det känns spännande att erbjuda våra högklassiga tjänster och samtidigt lära oss hur företag på den här marknaden kommunicerar med sina påverkare. Jag är övertygad om att våra konkurrenter välkomnar oss med ett visst mått av oro. Vårt team står redo att hjälpa både engelska kunder och internationella kunder som vill ha ett starkare brittiskt nätverk”, säger Peter Ingman, CEO för Mynewsdesk.</p>
+<p>Det senaste året har inneburit en stark expansion för företaget, med öppnade kontor i Norden och Singapore. När Mynewsdesk nu öppnar kontor i London är det ytterligare ett steg på vägen mot att bli ett globalt företag.</p>
+<p><strong><br></strong></p>
+</div>
+<div class='boilerplate'><p><strong>För mer information om Mynewsdesk, följ oss på:</strong></p>
+<p><a href="http://twitter.com/#!/mynewsdesk_se">Twitter</a><br /><a href="http://www.linkedin.com/company/mynewsdesk">Linkedin</a><br /><a href="http://www.facebook.com/MyNewsdesk">Facebook</a><br /><a href="http://www.youtube.com/user/mynewsdesk">YouTube</a><br /><a href="http://www.flickr.com/photos/mynewsdesk">Flickr</a><br /><a href="http://www.slideshare.net/MyNewsdesk">Slideshare</a><br /><a href="/se/pressroom/newsdesk">Newsroom</a></p>
+<p><strong>Mynewsdesk – The News Exchange Site</strong></p>
+<p>Mynewsdesk matchar intresserade användare med relevant information- som pressmeddelanden, dokument, videor och bilder - helt på användarnas villkor. Allt material sökmotoroptimeras omedelbart och publiceras automatiskt i sociala medier som Facebook, Twitter, Flickr, WordPress och Slideshare. Mynewsdesk har idag 97 % nöjda kunder, hostar 3 600 social media newsrooms och publicerar innehåll från över 23 000 företag.</p></div>

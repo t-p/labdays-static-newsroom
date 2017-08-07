@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Företag rapporterar direkt till E24’s läsare"
+date: 2010-10-20 15:50:00 +0200
+categories: Mynewsdesk
+---
+ <div class='clearfix'><p><strong>MyNewsdesk lanserar nytt partnersamarbete för direktpublicering av företagsnyheter på nyhetssajten E24.</strong><strong><br> </strong><br> Nu kan företag rapportera direkt till läsarna på E24. Tjänsten heter “<a href="http://www.e24.se/foretagskanalen/" target="_blank">Företagskanalen</a>” och innebär att alla företag på MyNewsdesk kan publicera <a href="http://www.e24.se/foretagskanalen/grays-american-stores-okar-tempot-i-sodra-sverige-med-sanjo-gruppen_2331773.e24" target="_blank">pressmeddelanden </a>direkt på E24’s förstasida. Publiceringen sker synkront med företagens övriga kommunikation på MyNewsdesk. Att registrera sig och kommunicera via <br>MyNewsdesk är kostnadsfritt. Men vill man också nå ut via E24 så kostar det några hundralappar per nyhet. <br> </p>
+<p>För att få exponering i redaktionella medier är företag normalt hänvisade till annonsyta och debattsidor, alternativt skapa förutsättningar för journalister att skriva om det företagen vill kommunicera. I takt med <br>att webben blir mer social har det blivit enklare för företag att prata med sin målgrupp direkt via bl a sociala medier. Företag tar också en allt mer aktiv roll i att &nbsp;producera och sprida nyhetsmaterial, via egna pressrum, hemsidor, företagsblogg, nyhetsforum och sociala nätverk. <br> <br> MyNewsdesks målsättning med att låta företag publicera sitt nyhetsmaterial i anslutning till redaktionellt innehåll, på relevanta nyhetssajter och branschportaler, är att på sikt skapa allt bättre förutsättningar för företag och läsare att mötas. Där företagen får mer flexibilitet och fler alternativ än traditionell annonsering för att möta sin målgrupp. <br> <br> För nyhetssajter som <a href="http://www.e24.se/foretagskanalen/" target="_blank">E24 </a>innebär samarbetet även en ny affärsmodell som ett alternativ till traditionell annonsering, säger Kanalansvarige Torkel Kristoffers.</p>
+</div>
+<div class='boilerplate'><p>______________________________________________________________________</p>
+<p><strong><em>MyNewsdesk – The News Exchange Site</em></strong></p>
+<p><em>MyNewsdesk makes it faster and easier for companies, journalists, bloggers and opinion leaders to gain relevant exposure – on their own terms. It matches interested users with press releases, videos, images and other content, all instantly searchengine optimized and automatically published on social media platforms.</em></p>
+<p><em><br />The site serves more than 10,000 companies and has a 97% customer satisfaction rate.</em></p></div>

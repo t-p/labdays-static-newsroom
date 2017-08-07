@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Mynewsdesk tar sig an Asien via ad:tech-mässan i Singapore"
+date: 2011-05-25 13:27:00 +0200
+categories: Mynewsdesk
+---
+ <div class='clearfix'><p><strong>Den 16-17 juni visar Mynewsdesk upp sig på allvar på den asiatiska marknaden. PR- och nyhetstjänsten medverkar på ad:tech-mässan i Singapore och bidrar även som officiell sponsor. </strong></p>
+<p>Mynewsdesk hjälper företag att nå ut med pressinformation till journalister och viktiga påverkare, helt på deras villkor. Med social media newsroom är det enkelt för kommunikatörer att sprida sökmotoroptimerat innehåll i sociala medier och på nätet. I dag har nära 3&nbsp;500 företag från olika delar av världen egna social media newsrooms på Mynewsdesk.</p>
+<p>Mynewsdesk, med huvudkontor i Stockholm, växer just nu snabbt på flera marknader. I mars i år slog företaget upp portarna till sitt kontor i Singapore och etablerade därmed sin första närvaro i Asien. Arbetet med etableringen på den nya lokala marknaden är inne i en intensiv fas och Mynewsdesk har på kort tid skrivit kontrakt med flera viktiga kunder. Nu tar företaget nästa steg.</p>
+<p><img src="http://blog.mynewsdesk.com/wp-content/uploads/2011/05/logo_adtech_singapore.gif" width="393" height="56"></p>
+<p>När Mynewsdesk deltar i sitt första större event i Asien gör man det med buller och bång – som stolt, officiell Newswire Partner till <a href="http://www.ad-tech.com/singapore/adtech_singapore.aspx">ad:tech i Singapore</a>, den årliga mässan för interaktiv och digital marknadsföring.</p>
+<p>– ad:tech är ett utmärkt tillfälle att visa upp Mynewsdesk och hur vi kan hjälpa företag att nå ut med sitt innehåll via social media newsroom. Samtidigt får vi möjlighet att lära oss mer om den lokala marknaden, säger <a href="http://www.mynewsdesk.com/sg/pressroom/newsdesk/contact_person/view/robin-lim-13483">Robin Lim</a>, Country Manager för Mynewsdesk Singapore. Vi hoppas att vi kan fånga uppmärksamheten hos industrins olika aktörer och på så sätt lansera Mynewsdesk som ett internationellt varumärke som är det bästa alternativet för företag på en marknad utan gränser.</p>
+<p>ad:tech går av stapeln på <a href="http://www.suntecsingapore.com/">Suntec Convention Centre</a> i Singapore den 16-17 juni. Mynewsdesks vd, <a href="http://www.mynewsdesk.com/sg/pressroom/newsdesk/contact_person/view/peter-ingman-13407">Peter Ingman</a>, kommer att finnas på plats, bland annat för att delta i en paneldiskussion på temat <a href="http://www.ad-tech.com/singapore/session_detail.asp?refad=1&amp;session=1718">Re-inventing Print</a>.</p>
+<p>&nbsp;Mynewsdesk kommer även att ha en egen monter med aktiviteter på mässan. Monter nummer sex kommer att fungera som en bas för att knyta kontakter med andra företag och deltagare.</p>
+<p>– Vi är på utkik efter ömsesidigt fördelaktiga samarbeten med företag som har samma synsätt som vi, säger Robin Lim. Vi ser mycket fram emot att träffa nya användare och kunder under ad:tech.</p>
+</div>
+<div class='boilerplate'><p><strong>För mer information om Mynewsdesk, följ oss på:</strong></p>
+<p><a href="http://twitter.com/#%21/mynewsdesk_se">Twitter</a><br /><a href="http://www.linkedin.com/company/mynewsdesk">Linkedin</a><br /><a href="http://www.facebook.com/MyNewsdesk">Facebook</a><br /><a href="http://www.youtube.com/user/mynewsdesk">YouTube</a><br /><a href="http://www.flickr.com/photos/mynewsdesk">Flickr</a><br /><a href="http://www.slideshare.net/MyNewsdesk">Slideshare</a><br /><a href="http://www.mynewsdesk.com/se/pressroom/newsdesk">Newsroom</a></p>
+<p><strong>Mynewsdesk – The News Exchange Site</strong></p>
+<p>Mynewsdesk gör det snabbare och enklare för företag, journalister, bloggare och opinionsbildare att få träffsäker exponering. Mynewsdesk matchar intresserade användare med relevant information- som pressmeddelanden, dokument, videor och bilder - helt på användarnas villkor. Allt material sökmotoroptimeras omedelbart och publiceras automatiskt i sociala medier.<br /><br />Företaget grundades 2003 och har idag 97 % nöjda kunder och innehåll från fler än 23 000 företag.</p></div>

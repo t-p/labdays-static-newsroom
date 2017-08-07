@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Ny lösning från MyNewsdesk förenklar nordiskt PR-arbete"
+date: 2010-05-11 15:11:00 +0200
+categories: Mynewsdesk
+---
+ <div class='clearfix'><p><strong>Vi har nu lanserat vår sajt på finska och danska och kan nu erbjuda en helhetslösning för presskommunikation i Norden för företag, journalister, bloggare och andra opinionsbildare.<br> </strong></p>
+<p>MyNewsdesks nordiska lösning innebär att företag smidigare kan kommunicera sin pressinformation för fyra länder på det lokala språket. Det företag som har olika pressrum för sina lokala marknader i Norden kommer att kunna förenkla sitt PR-arbete genom att all publicering och administration för de olika pressrummen sköts i ett och samma konto. Kontots administratör eller administratörer väljer själva vilket respektive språk de vill ha på gränssnittet.</p>
+<p>En översiktsvy visar en samlad bild av kundens pressrum i dashboard, varifrån man kan välja att se på varje enskilt pressrum för sig för att t ex analysera statistik.</p>
+<p>Med den nordiska lösningen följer utökade valmöjligheter för att jobba i de olika pressrummen. En sak som gör arbetet lite enklare är att användaren kan arbeta med samma material i flera pressrum, en bild eller video som har laddats upp i Sverige kan även publiceras på det finska och danska pressrummet, med beskrivning och nyckelord på respektive språk. Det går även att relatera material till varandra över pressrumsgränser.</p>
+<p>Samtidigt som det förenklar administration att sammankoppla de olika pressrummen i den nordiska lösningen så behålls lokala inställningar för respektive pressrum. Det gäller exempelvis lokala distributionslistor och automatisk publicering på sociala medieplattformar som kunden har synkroniserat med sitt konto, där det kan vara nödvändigt med ett Twitter- eller Flickrkonto per land. Statistiken visas även per pressrum och marknad.</p>
+<p>Med MyNewsdesks nordiska lösning har kunden möjlighet att kommunicera obegränsat med pressinformation, bilder, videor och dokument som distribueras till journalister, bloggare och andra opinionsbildare. Informationen paketeras i landsspecifika pressrum med anpassning för sociala medier, s.k. social media newsrooms. Allt material sökmotoroptimeras för Google och andra söktjänster och publiceras automatiskt på utvalda sociala medieplattformar samt på webbmedia via MyNewsdesks publiceringsnätverk.</p>
+</div>
+<div class='boilerplate'><p><em>MyNewsdesk.com är en öppen plattform för förmedling av pressinformation på webben. Det är fritt för företag att förmedla pressinformation av olika slag och där det är fritt för alla intresserade att ta del av information. Sen starten 2004 har Newsdesk distribuerat över en miljon pressmeddelanden åt 97% nöjda kunder.</em></p>
+<p><em>MyNewsdesk hjälper marknadsförare och PR-ansvariga att bidra till dialogen som förs om deras företag. Med ett enkelt och mätbart PR-verktyg effektiviserar MyNewsdesk förmedling av pressinformation och andra nyhetstyper för bättre spridning och mer publicitet.</em></p></div>

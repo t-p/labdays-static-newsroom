@@ -1,0 +1,16 @@
+---
+layout: post
+title: "MyNewsdesk gratulerar vinnarna på Spinn 2010"
+date: 2010-11-12 15:31:00 +0100
+categories: Mynewsdesk
+---
+ <div class='clearfix'><p><strong>För andra året i rad var MyNewsdesk huvudsponsor för Spinn och Spinngalan, svenska PR-branschens Oscarsgala. Galan präglades av många skratt åt moderatorn Måns Möller, många glada tilllrop från vinnare och en och annan röd "social follower".</strong></p>
+<p>Tio silverdiplom och 8 guldpriser delades ut under gårdagskvällens spinngala på Grand. Dessutom delade huvudsponsorn MyNewsdesk ut sitt pris till det företag av de nominerade som bedömts ha lyckats bäst med <a href="/se/pressroom/newsdesk/pressrelease/view/hur-social-aer-du-lille-vaen-microsoft-faar-baest-sociala-omdoeme-paa-spinn-2010-517067">sina relationer på den sociala webben</a>.</p>
+<p>Alla vinnare fotograferades och intervjuades i MyNewsdesks "Social press lounge". MyNewsdesks kundservice på plats arbetade febrilt med att publicera materialet live under kvällen, snyggt paketerat på <a href="/se/pressroom/spinn">Spinns Newsroom.</a></p>
+<p><u>Här är listan på alla lyckliga vinnare: </u></p>
+<p>Årets B2B-kampanj<br>Guld: Prime &amp; Electrolux PR Studio med Vac from the sea för Electrolux.<br>Silver: Friends Agenda med Scandinavia Android TV för People of Lava.<br><br>Årets Nordiska kampanj<br>Guld: Geelmuyden Kiese, CP+B &amp; OneVoice med Den sårbara mannen för Philips.<br><br>Årets Experiential Marketing<br>Guld: Dahlheim &amp; Sjöqvist med HPs sommarkollo för HP.<br>Silver: Jung Relations, Euro RSCG &amp; Knock med Subject60 för Volvo.<br>Silver: Weber Shandwick med Max maxar miljön i Almedalen för Max Hamburgare.<br><br>Årets word-of-mouth-kampanj<br>Guld: Prime &amp; Ogilvy med Rädda Julen för Marabou.<br>Silver: Jung Relations med Every team needs a shirt with a story för Adidas.<br>Silver: Jung von Matt med Sandhamn för MTG TV.<br><br>Årets Rookie<br>Konsulten Farshad Shadloo från Aspekta vann det ärofyllda priset som årets rookie.<br><br>Årets Samhällsinformationskampanj<br>Guld: Deportivo AB med Kaloriprofilen för IQ.<br>Silver: Spotlight PR &amp; GyroHSR med Bordellen i Almedalen för Järfälla tjejjour.<br>Silver: Åkestam Holst med Hur Hetero? för Stockholm Pride.<br><br>Årets konsumentkampanj - totalbudget över 1000 000 kr<br>Guld: Prime &amp; Ogilvy med Rädda Julen för Marabou.<br><br>Silver: Jung Relations med ABSOLUT NO LABEL för Absolut Vodka.<br><br>Årets konsumentkampanj – totalbudget under 1000 000 kr<br>Guld: Cohn &amp; Wolfe med Valspelet för Unibet.<br>Silver: Dahlheim &amp; Sjöqvist med HPs sommarkollo för HP.<br>Silver: Jung Relations med Every team needs a shirt with a story för Adidas.</p>
+<p>___<br>Pernilla Åström<br>Community Manager, Mynewsdesk</p>
+</div>
+<div class='boilerplate'><p><strong>MyNewsdesk – The News Exchange Site</strong></p>
+<p>MyNewsdesk makes it faster and easier for companies, journalists, bloggers and opinion leaders to gain relevant exposure – on their own terms. It matches interested users with press releases, videos, images and other content, all instantly searchengine optimized and automatically published on social media platforms.</p>
+<p>The site serves more than 10,000 companies and has a 97% customer satisfaction rate.</p></div>
