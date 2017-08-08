@@ -2,11 +2,11 @@
 title: Mynewsdesk
 email: your-email@example.com
 description: "Mynewsdesk är Nordens ledande plattform för digital PR. Över 5 000 varumärken som Google, Viasat, Gröna Lund och Johan & Nyström använder sina nyhetsrum på Mynewsdesk för att publicera och distribuera sina nyheter, öka sin synlighet samt knyta relationer med sin marknad och sina viktigaste journalister."
-baseurl: static-newsroom.dev
-url: ''
+baseurl: ""
+url: http://static-newsroom.dev
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
